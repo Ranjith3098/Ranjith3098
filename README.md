@@ -1,5 +1,6 @@
 - 👋 Hi
 
+  <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 
 
      | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                        |                                         
