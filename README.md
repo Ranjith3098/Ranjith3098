@@ -16,7 +16,10 @@
 
 
   <hr>
-
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjith3098&show_icons=true&theme=radical&include_all_commits=true)
+  <br>
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith3098&theme=radical&layout=compact)
 <!---
 Ranjith3098/Ranjith3098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
