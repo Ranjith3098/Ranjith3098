@@ -17,11 +17,7 @@
      |**Framework**                                    | ![Django](https://img.shields.io/badge/-Django-444444?style=flat&logo=django) ![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react) ![Frappe](https://img.shields.io/badge/-Frappe-444444?style=flat&logo=frappe) ![Vue.js](https://img.shields.io/badge/-Vue.js-444444?style=flat&logo=vue.js)|
      |**Version Controller**                           | ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=gitlab) |
      |**Databases**                                    | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql) ![MariaDB](https://img.shields.io/badge/-MariaDB-444444?style=flat&logo=mariadb) ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=sqlite) |
-
-
-  <hr>
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjith3098&show_icons=true&theme=radical&include_all_commits=true)
+<hr>
   <br>
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith3098&theme=radical&layout=compact)
 
