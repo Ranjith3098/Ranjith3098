@@ -19,6 +19,7 @@
      |**Databases**                                    | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql) ![MariaDB](https://img.shields.io/badge/-MariaDB-444444?style=flat&logo=mariadb) ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=sqlite) |
 <hr>
   <br>
+  
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith3098&theme=radical&layout=compact)
 
   <hr>
