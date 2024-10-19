@@ -23,11 +23,7 @@
 
   <hr>
   HackerRank Profile link -  https://www.hackerrank.com/profile/ranjithkumar4061  <br>
-  <iframe src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" 
-          height="300" 
-          width="100%" 
-          frameborder="0">
-  </iframe>
+ ![Badge Name]((https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg))
   <hr>
   Contact me! ranjithkumar40679@gmail.com
 <!---
