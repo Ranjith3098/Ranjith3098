@@ -22,8 +22,6 @@
   
 
   <hr>
-  HackerRank Profile link -  https://www.hackerrank.com/profile/ranjithkumar4061  <br>
-  <hr>
   Contact me! ranjithkumar40679@gmail.com
 <!---
 Ranjith3098/Ranjith3098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
